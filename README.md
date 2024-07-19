@@ -1,6 +1,6 @@
 # reportgenerator
-Natwest Report Generator Assignment Codebase
-create the input.csv,reference.csv file with filepath as mentioned in application.properties.The formats acceptable are csv and json currently.
+Natwest Report Generator Assignment Codebase<br>
+1.create the input.csv,reference.csv file with filepath as mentioned in application.properties.The formats acceptable are csv and json currently.
 
 **Sample data for input.csv**
 <br>field1,field2,field3,field4,field5,refkey1,refkey2
